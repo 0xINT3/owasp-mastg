@@ -38,7 +38,7 @@ With [Grapefruit](../../tools/ios/MASTG-TOOL-0061.md "Grapefruit") it's possible
 
 ## Keychain-dumper (Jailbroken)
 
-You can use [Keychain-dumper](0x08a-Testing-Tools.md#keychain-dumper) dump the jailbroken device's KeyChain contents. Once you have it running on your device:
+You can use [Keychain-dumper](https://github.com/ptoomey3/Keychain-Dumper) dump the jailbroken device's KeyChain contents. Once you have it running on your device:
 
 ```bash
 iPhone:~ root# /tmp/keychain_dumper
